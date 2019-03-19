@@ -9,4 +9,4 @@ https://unity3d.com/jp/learn/tutorials/s/roll-ball-tutorial
 
 https://qiita.com/God_KonaBanana/items/7aebdb411c99b059cc6f
 
-![sample](./image/cartpole.gif)
+![sample](./image/cart_pole_RL.gif)
